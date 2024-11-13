@@ -98,8 +98,4 @@ Una vez que el servidor esté en ejecución, puede probar los endpoints:
 - **Optimización**: Mejora de los tiempos de respuesta para consultas con documentos de gran tamaño.
 - **Almacenamiento**: Posibilidad de almacenar y manejar documentos más grandes usando almacenamiento distribuido.
 
-## Autor
-Este proyecto fue desarrollado como una implementación de un pipeline RAG utilizando FastAPI, OpenAI, Pinecone y MongoDB.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
